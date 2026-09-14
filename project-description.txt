@@ -1,0 +1,29 @@
+2026/2 - Aprendizado de Máquina Não Supervisionado - LT96013-00004-999995 - Cassiano Ricardo Neubauer Moralles
+Condições de conclusão
+Abre: sexta-feira, 25 set. 2026, 23:50
+Vencimento: domingo, 27 set. 2026, 23:59
+Sobre o Projeto FInal:
+
+1)O trabalho é individual;
+
+2) Dado o dataset anexo:
+
+2.a) Aplicar e apresentar estatística descritiva do dataset;
+
+2.b) Aplicar 4 dos algoritmos estudados, justificar escolhas e demonstrar as técnicas vistas na disciplina no dataset:
+
+•    K-Means; 
+•    Hierárquico; 
+•    DBSCAN; 
+•    Avaliação de Clusters.
+•    Análise de Componentes Principais (PCA); 
+•    Técnicas de seleção de características; 
+•    T-SNE.
+•    Apriori; 
+•    FP-Growth.
+
+3) Entrega em formato de notebook .ipynb com todas as execuções e descrições.
+
+4) Colocar um cabeçalho com identificação do Aluno.
+
+new_logs.csv new_logs.csv
