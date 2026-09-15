@@ -29,7 +29,8 @@ labels during training.
 ## Running the notebook
 
 ```bash
-pip install pandas numpy scikit-learn scipy matplotlib seaborn jupyter
+pip install -r requirements.txt
+
 jupyter notebook notebooks/firewall_traffic_clustering.ipynb
 ```
 
