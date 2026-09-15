@@ -1,7 +1,8 @@
 # Firewall Traffic - Unsupervised Clustering
 
-Final project for the **Unsupervised Machine Learning** course
-(LT96013-00004-999995 — Prof. Cassiano Ricardo Neubauer Moralles). See
+> Developed for the Unsupervised Learning course (Aprendizado de Máquina Não Supervisionado) — Specialization in Applied Artificial Intelligence, UNISINOS.
+
+See
 [project-description.txt](project-description.txt) for the original assignment.
 
 Applies unsupervised learning techniques to a real firewall traffic log export in order to
